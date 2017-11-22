@@ -1,0 +1,4 @@
+
+# CLion temporary files
+/.idea/
+/cmake-build-*/
